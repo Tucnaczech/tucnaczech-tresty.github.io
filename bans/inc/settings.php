@@ -3,16 +3,16 @@
 class Settings {
     public function __construct() {
         // Web interface language. Languages are stored in the "lang/" directory.
-        $this->lang = 'en_US.utf8';
+        $this->lang = 'cs_CZ.utf8';
 
         // Database information
-        $this->host = 'localhost';
+        $this->host = 'us2-db.falixserver.net';
         $this->port = 3306;
 
-        $this->database = 'litebans';
+        $this->database = 's2164560_Litebans';
 
-        $this->username = '';
-        $this->password = '';
+        $this->username = 'u2164560_QivDn6p20p';
+        $this->password = 'OcqTejC4.sv8!rdb@0PYjifA';
 
         // If you set a table prefix in config.yml, set it here as well
         $this->table_prefix = "litebans_";
