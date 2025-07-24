@@ -1,1 +1,0 @@
-# tucnaczech-tresty.github.io
